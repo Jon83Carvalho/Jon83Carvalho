@@ -13,7 +13,7 @@ I use a server in AWS service.
 - I did a project where it collects data about commodities price and creates a database to be accessed and also install a Dashboard in https://github.com/Jon83Carvalho/Projeto-edc-JonasCarvalho-igti
 
 #### The architecture of the solution is as described below
-<img src="https://user-images.githubusercontent.com/25573262/182053170-680f84e3-d68d-46db-bca2-8f37b598e505.png" width="200">
+<img src="https://user-images.githubusercontent.com/25573262/182053170-680f84e3-d68d-46db-bca2-8f37b598e505.png" width="300">
 
 #### Final data is stored in AWS Athena
 <img src="https://user-images.githubusercontent.com/25573262/182052973-03acde3b-cb87-4357-9250-55a05dbf628b.png" width="400">
