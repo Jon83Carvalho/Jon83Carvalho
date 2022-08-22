@@ -1,8 +1,8 @@
-### The Happiest man alive 🤓!!
+### Focused on data understanding and exploration 🤓!!
 
 
 
-These are my current interest and developments I have done
+These are my interest and developments I am working on!
 
 ## DataAndArt
 - I am developing a homepage for data with art in https://github.com/Jon83Carvalho/DataAndArt, hosted in http://datandart.com
