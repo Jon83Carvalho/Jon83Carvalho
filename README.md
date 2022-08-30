@@ -7,7 +7,8 @@ These are my interest and developments I am working on!
 ## DataAndArt
 - I am developing a homepage for data with art in https://github.com/Jon83Carvalho/DataAndArt, hosted in http://datandart.com
 I use a server in AWS service.
-<img src="https://user-images.githubusercontent.com/25573262/182052723-e89a4410-887a-4f54-8a81-e90e2d09104f.png" width="400">
+<img src="https://user-images.githubusercontent.com/25573262/187332185-a6d29d59-5b17-4ba5-aaf4-5e9d35ea0251.png" width="400">
+
 
 ## Commodities price database
 - I did a project where it collects data about commodities price and creates a database to be accessed and also install a Dashboard in https://github.com/Jon83Carvalho/Projeto-edc-JonasCarvalho-igti
