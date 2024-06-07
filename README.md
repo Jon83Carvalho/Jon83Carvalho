@@ -5,8 +5,8 @@
 These are my interest and developments I am working on!
 
 ## DataAndArt
-- I am developing a homepage for data with art in https://github.com/Jon83Carvalho/DataAndArt, hosted in http://datandart.com
-I use a server in AWS service.
+- I am developing a homepage for data with art in https://github.com/Jon83Carvalho/datahomenew, hosted in http://www.datandart.com
+I used a server in AWS service, but then transitionated to an on premisses solution with a simples server using Raspberry Pi.
 <img src="https://user-images.githubusercontent.com/25573262/187332185-a6d29d59-5b17-4ba5-aaf4-5e9d35ea0251.png" width="400">
 
 
