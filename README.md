@@ -6,8 +6,7 @@ These are my interest and developments I am working on!
 
 ## DataAndArt
 
-![StartScreen_quadrado](https://github.com/Jon83Carvalho/Jon83Carvalho/assets/25573262/faa194c2-db34-46d1-94f2-5c7c33a93530)
-
+<img src="https://github.com/Jon83Carvalho/Jon83Carvalho/assets/25573262/faa194c2-db34-46d1-94f2-5c7c33a93530" width="400">
 
 - I am developing a homepage for data with art in https://github.com/Jon83Carvalho/datahomenew, hosted in http://www.datandart.com
 I used a server in AWS service, but then transitionated to an on premisses solution with a simples server using Raspberry Pi.
