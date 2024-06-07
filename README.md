@@ -9,6 +9,8 @@ These are my interest and developments I am working on!
 I used a server in AWS service, but then transitionated to an on premisses solution with a simples server using Raspberry Pi.
 
 Recently I developed a a view of digital coins in real time to understand the volume of negotiations. The view shows the top ten negotiated coins in the period the reading started and the volume at each recent price for the top 5 most negotiated coins. This may assist on understanding trendings in coin negotiations.
+<img src="https://github.com/Jon83Carvalho/Jon83Carvalho/assets/25573262/5f5dd708-4ce5-4a01-9ebc-3b1268c76127" width="200">
+
 ![telaCoin](https://github.com/Jon83Carvalho/Jon83Carvalho/assets/25573262/5f5dd708-4ce5-4a01-9ebc-3b1268c76127)
 
 
